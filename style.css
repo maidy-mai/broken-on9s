@@ -1,0 +1,25 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url("cake.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+}
+.container{
+    text-align: center;
+}
+h1{
+    font-size: 6.5em;
+    margin: 1% 0% -5% 0%;
+    font-family: 'Nunito Black','Courier New', Courier, monospace;
+    -webkit-text-stroke: 3px black;
+    color: white;
+}
+p{
+    font-size: 3em;
+    font-family: 'Nunito Black','Courier New', Courier, monospace;
+    -webkit-text-stroke: 2px black;
+    color: white;
+    margin-bottom: 0%;
+}
